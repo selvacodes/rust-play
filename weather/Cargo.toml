@@ -1,0 +1,13 @@
+[package]
+name = "weather"
+version = "0.1.0"
+authors = ["selva <selvaganapathy@outlook.in>"]
+
+[dependencies]
+futures = "*"
+hyper = "*"
+tokio-core = "*"
+serde_json = "*"
+serde_derive = "*"
+serde = "*"
+
