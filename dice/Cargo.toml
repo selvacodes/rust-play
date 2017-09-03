@@ -1,0 +1,7 @@
+[package]
+name = "dice"
+version = "0.1.0"
+authors = ["selva <selvaganapathy@outlook.in>"]
+
+[dependencies]
+rand = "*"
